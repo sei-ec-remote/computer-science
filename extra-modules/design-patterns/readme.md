@@ -11,7 +11,7 @@ This lesson introduces the high-level concept of design patterns and explains th
 There are two components to this lesson:
 1. [myGA module: Design Patterns](https://my.generalassemb.ly/activities/134)
     -   If the above link does not take you to the correct module, you can find the lesson in your myGA dashboard.
-2. In-Class Exercise: [Design Patterns](https://git.generalassemb.ly/software-engineering-immersive/SEI-Course-Materials/tree/master/6_computer-science-materials/design-patterns/design-patterns/exercises)
+2. In-Class Exercise: [Design Patterns](https://github.com/sei-ec-remote/computer-science/tree/main/extra-modules/design-patterns/exercises)
 
 ## Learning Objectives
 By the end of this lesson, you'll be able to:
